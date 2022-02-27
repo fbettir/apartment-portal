@@ -1,12 +1,12 @@
-package onlab.lodging.portal.lodge;
+package onlab.apartment.portal.apartment;
 
 
-public class Lodge {
+public class Apartment {
     String name;
     String description;
     double price;
 
-    public Lodge(String name, String description, double price) {
+    public Apartment(String name, String description, double price) {
         this.name = name;
         this.description = description;
         this.price = price;

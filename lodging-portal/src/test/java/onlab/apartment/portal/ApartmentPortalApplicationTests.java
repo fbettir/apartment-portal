@@ -1,10 +1,10 @@
-package onlab.lodging.portal;
+package onlab.apartment.portal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LodgingPortalApplicationTests {
+class ApartmentPortalApplicationTests {
 
 	@Test
 	void contextLoads() {

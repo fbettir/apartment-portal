@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>onlab</groupId>
-	<artifactId>lodging-portal</artifactId>
+	<artifactId>apartment-portal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>lodging-portal</name>
-	<description>primer task, find your lodging easily </description>
+	<name>apartment-portal</name>
+	<description>primer task, find your apartment easily </description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
